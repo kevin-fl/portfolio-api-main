@@ -1,0 +1,1 @@
+check pour les mots member car certainement user a utiliser dans mon cas !! ou bien changer le contenu de member.js par user.js 
